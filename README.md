@@ -58,7 +58,7 @@ The project uses the Open X-Embodiment dataset format. The current implementatio
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see [LICENSE](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
